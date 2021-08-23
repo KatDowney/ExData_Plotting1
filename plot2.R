@@ -1,0 +1,1 @@
+plot(dataset$Global_active_power~dataset$Date, type=1, ylab="Global Active Power (kilowatts)", xlab = "")
